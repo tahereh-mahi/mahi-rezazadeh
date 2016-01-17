@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="080634a3-795a-4037-849b-c71556178c62" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/home/index.html" afterPath="$PROJECT_DIR$/templates/home/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="2c72b6c3-23fe-4945-a305-bb1aab0e8700" name="New changelist" comment="" />
@@ -53,8 +54,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/home/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.80269814">
-              <caret line="348" column="52" selection-start-line="348" selection-start-column="52" selection-end-line="348" selection-end-column="52" />
+            <state vertical-scroll-proportion="0.54468805">
+              <caret line="339" column="62" selection-start-line="339" selection-start-column="62" selection-end-line="339" selection-end-column="62" />
               <folding>
                 <element signature="n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#script#4;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -880,7 +881,13 @@
       <option name="project" value="LOCAL" />
       <updated>1453019410077</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="test1">
+      <created>1453019415271</created>
+      <option name="number" value="00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1453019415271</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1389,8 +1396,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/home/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.80269814">
-          <caret line="348" column="52" selection-start-line="348" selection-start-column="52" selection-end-line="348" selection-end-column="52" />
+        <state vertical-scroll-proportion="0.54468805">
+          <caret line="339" column="62" selection-start-line="339" selection-start-column="62" selection-end-line="339" selection-end-column="62" />
           <folding>
             <element signature="n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#script#4;n#body#0;n#html#0;n#!!top" expanded="false" />
