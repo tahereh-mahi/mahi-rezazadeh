@@ -54,8 +54,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/home/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7766831">
-              <caret line="366" column="307" selection-start-line="366" selection-start-column="307" selection-end-line="366" selection-end-column="307" />
+            <state vertical-scroll-proportion="0.88834155">
+              <caret line="370" column="51" selection-start-line="370" selection-start-column="51" selection-end-line="370" selection-end-column="51" />
               <folding>
                 <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -691,7 +691,13 @@
       <option name="project" value="LOCAL" />
       <updated>1453014308668</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="rezazadeh5">
+      <created>1453014770837</created>
+      <option name="number" value="00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1453014770837</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -732,7 +738,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="aliyeh" />
     <MESSAGE value="mahi1" />
     <MESSAGE value="mahi2" />
     <MESSAGE value="mahi3" />
@@ -757,7 +762,8 @@
     <MESSAGE value="rezazadeh" />
     <MESSAGE value="rezazadeh1" />
     <MESSAGE value="rezazadeh3" />
-    <option name="LAST_COMMIT_MESSAGE" value="rezazadeh3" />
+    <MESSAGE value="rezazadeh5" />
+    <option name="LAST_COMMIT_MESSAGE" value="rezazadeh5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1216,8 +1222,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/home/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7766831">
-          <caret line="366" column="307" selection-start-line="366" selection-start-column="307" selection-end-line="366" selection-end-column="307" />
+        <state vertical-scroll-proportion="0.88834155">
+          <caret line="370" column="51" selection-start-line="370" selection-start-column="51" selection-end-line="370" selection-end-column="51" />
           <folding>
             <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
