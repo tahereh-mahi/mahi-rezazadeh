@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="080634a3-795a-4037-849b-c71556178c62" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/admin/admin.html" afterPath="$PROJECT_DIR$/templates/admin/admin.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/img/2149.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/img/459.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/Admin/img/56.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/home/index.html" afterPath="$PROJECT_DIR$/templates/home/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -55,8 +57,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/home/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.68802696">
-              <caret line="345" column="22" selection-start-line="345" selection-start-column="22" selection-end-line="345" selection-end-column="22" />
+            <state vertical-scroll-proportion="0.6593592">
+              <caret line="344" column="65" selection-start-line="344" selection-start-column="65" selection-end-line="344" selection-end-column="65" />
               <folding>
                 <element signature="n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#script#4;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -344,6 +346,11 @@
     <property name="FullScreen" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\M.NRB\PycharmProjects\untitled1\static\Admin\img" />
+    </key>
   </component>
   <component name="RunManager" selected="Python.start">
     <configuration default="false" name="start" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -813,7 +820,13 @@
       <option name="project" value="LOCAL" />
       <updated>1453017185026</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="zangouie3">
+      <created>1453017256812</created>
+      <option name="number" value="00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1453017256812</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -886,16 +899,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/start.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="28" column="46" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="46" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/admin/admin.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1325,10 +1328,15 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/static/Admin/img/2149.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/templates/home/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.68802696">
-          <caret line="345" column="22" selection-start-line="345" selection-start-column="22" selection-end-line="345" selection-end-column="22" />
+        <state vertical-scroll-proportion="0.6593592">
+          <caret line="344" column="65" selection-start-line="344" selection-start-column="65" selection-end-line="344" selection-end-column="65" />
           <folding>
             <element signature="n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#script#4;n#body#0;n#html#0;n#!!top" expanded="false" />
