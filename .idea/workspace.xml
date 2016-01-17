@@ -55,7 +55,7 @@
         <entry file="file://$PROJECT_DIR$/templates/home/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.8711755">
-              <caret line="370" column="81" selection-start-line="370" selection-start-column="81" selection-end-line="370" selection-end-column="88" />
+              <caret line="370" column="54" selection-start-line="370" selection-start-column="54" selection-end-line="370" selection-end-column="54" />
               <folding>
                 <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -710,7 +710,13 @@
       <option name="project" value="LOCAL" />
       <updated>1453014959570</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="rezazadeh10">
+      <created>1453015275346</created>
+      <option name="number" value="00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1453015275346</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -751,7 +757,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="mahi3" />
     <MESSAGE value="aliyeh1" />
     <MESSAGE value="aliyeh2" />
     <MESSAGE value="mahi5" />
@@ -776,7 +781,8 @@
     <MESSAGE value="rezazadeh5" />
     <MESSAGE value="rezazadeh7" />
     <MESSAGE value="rezazadeh8" />
-    <option name="LAST_COMMIT_MESSAGE" value="rezazadeh8" />
+    <MESSAGE value="rezazadeh10" />
+    <option name="LAST_COMMIT_MESSAGE" value="rezazadeh10" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1236,7 +1242,7 @@
     <entry file="file://$PROJECT_DIR$/templates/home/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.8711755">
-          <caret line="370" column="81" selection-start-line="370" selection-start-column="81" selection-end-line="370" selection-end-column="88" />
+          <caret line="370" column="54" selection-start-line="370" selection-start-column="54" selection-end-line="370" selection-end-column="54" />
           <folding>
             <element signature="n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
